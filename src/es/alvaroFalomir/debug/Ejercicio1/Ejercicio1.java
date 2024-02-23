@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 7 6 5 4 3 2 1
 
-6 5 4 3 2 1a
+6 5 4 3 2 1
 
 5 4 3 2 1
 
