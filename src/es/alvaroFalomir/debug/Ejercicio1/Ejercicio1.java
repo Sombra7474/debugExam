@@ -35,9 +35,12 @@ public class Ejercicio1 {
         System.out.print("Entra numero: ");
         num = sc.nextInt();
         for (int i = num; i > 0; i--) {//me doy cuenta de mi error anterior y corrigo este ++ por un -- para que vaya bien el programa 
+            
             for (int j = num; j > 0; j--) {
-                System.out.print(j);
+                System.out.print(j+" ");//y añado un espacio para que quede como en el ejemplo 
+                
             }
+            num--;// añado num-- para que vaya como me lo pide el ejercicio 
             System.out.println();
         }
     }
